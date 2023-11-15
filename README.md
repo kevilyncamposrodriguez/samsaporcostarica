@@ -8,7 +8,7 @@ Página principal del grupo samsa creado con HTML5, CSS, JS y php metodologia BE
 * [Portafolio Web](https://kevilyncamposrodriguez.com/)
 
 ## Ejemplo 
--[ https://kevilyncamposrodriguez.github.io/gruposamsa/]( https://kevilyncamposrodriguez.github.io/gruposamsa/)
+-[https://kevilyncamposrodriguez.github.io/samsaporcostarica/](https://kevilyncamposrodriguez.github.io/samsaporcostarica/)
 
 ## Instalación
 Este proyecto no requiere instalación.
